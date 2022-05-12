@@ -1,0 +1,43 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: "Home"
+theme: "PaperMod"
+
+params:
+    defaultTheme: auto 
+
+    homeInfoParams:
+        Title: Hello!
+        Content: Perkenalkan saya Muchammad Gema Akbar, biasa dipanggil Gema.
+                  Fokus saya di bidang web development khususnya bagian backend.
+                  Ini adalah tempat untuk berbagi project yang saya kerjakan, buku yang saya baca, dan mungkin pemikiran saya.
+                  Selamat menikmati.
+
+    socialIcons: # optional
+        - name: "email"
+          url: "mailto:gemaakbar213@gmail.com"
+        - name: "github"
+          url: "https://github.com/gemm123"
+        - name: "linkedin"
+          url: "https://www.linkedin.com/in/gemaakbar07/"
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: archive
+      name: Archive
+      url: /archives/
+      weight: 20
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 30
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
