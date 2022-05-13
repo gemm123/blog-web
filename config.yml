@@ -7,11 +7,8 @@ params:
     defaultTheme: auto 
 
     homeInfoParams:
-        Title: Hello!
-        Content: Perkenalkan saya Muchammad Gema Akbar, biasa dipanggil Gema.
-                  Fokus saya di bidang web development khususnya bagian backend.
-                  Ini adalah tempat untuk berbagi project yang saya kerjakan, buku yang saya baca, dan mungkin pemikiran saya.
-                  Selamat menikmati.
+        Title: Hi There!
+        Content: Welcome to my blog
 
     socialIcons: # optional
         - name: "email"
