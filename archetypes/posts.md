@@ -18,7 +18,7 @@ disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: false
-ShowBreadCrumbs: true
+ShowBreadCrumbs: false
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
