@@ -1,11 +1,11 @@
 ---
 title: "My 1st post"
-date: 2020-09-15T11:30:03+00:00
+date: {{ .Date }}
 # weight: 1
 # aliases: ["/first"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
-categories: ["book", "blog", "project"]
+categories: ["Buku", "Blog", "Project"]
 showToc: true
 TocOpen: false
 draft: false

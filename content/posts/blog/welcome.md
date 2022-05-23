@@ -1,6 +1,6 @@
 ---
-title: "Selamat Datang!"
-date: 2020-09-15T11:30:03+00:00
+title: "Welcome to My Blog!"
+date: 2022-05-23T19:51:15+07:00
 weight: 1
 # aliases: ["/first"]
 author: "Me"
@@ -29,6 +29,6 @@ cover:
 
 Halo selamat datang di gubuk sederhana ini. Pekernalkan saya Muchammad Gema Akbar biasa dipanggil Gema. Saat ini sedang menempuh S1 Ilmu Komputer di IPB University. Saya memiliki ketertarikan di bidang web development.
 
-Web ini akan berisi 3 jenis kategori post, yaitu blog, project, dan book. Kategori blog berisi pemikiran dan hal yang ingin saya share. Kategori project berisi tutorial project yang sedang saya kerjakan dan juga sebagai dokumentasi pribadi. Terakhir kategori book adalah rangkuman atau hal-hal yang saya pelajari dari buku yang saya baca.
+Web ini akan berisi 3 jenis kategori post, yaitu blog, project, dan buku. Kategori blog berisi pemikiran dan hal yang ingin saya share. Kategori project berisi tutorial project yang sedang saya kerjakan dan juga sebagai dokumentasi pribadi. Terakhir kategori buku adalah rangkuman atau hal-hal yang saya pelajari dari buku yang saya baca.
 
 Selamat berkeliling :)
