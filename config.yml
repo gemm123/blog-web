@@ -7,8 +7,8 @@ params:
     defaultTheme: auto 
 
     homeInfoParams:
-        Title: Hi There!
-        Content: Welcome to my blog
+        Title: Hello There!
+        Content: I'm Muchammad Gema Akbar, you can call me Gema
 
     socialIcons: # optional
         - name: "email"
@@ -17,7 +17,8 @@ params:
           url: "https://github.com/gemm123"
         - name: "linkedin"
           url: "https://www.linkedin.com/in/gemaakbar07/"
-
+        - name: "medium"
+          url: "https://medium.com/@gemaakbar213"
 menu:
   main:
     - identifier: categories
